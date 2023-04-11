@@ -1,0 +1,6 @@
+.dark-mode{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    padding: 0 20px 0 0;
+}
