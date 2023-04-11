@@ -3,4 +3,25 @@
     align-items: right;
     justify-content: right;
     padding: 0 20px 0 0;
+    cursor: pointer;
+
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 46% 0%;
+}
+
+.nome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Pacifico';
+    font-size: 30px;
+
+}
+.nome span{
+    color: rgb(59, 52, 53);
 }
